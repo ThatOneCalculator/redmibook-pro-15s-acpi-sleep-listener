@@ -1,5 +1,6 @@
-# redmibook-pro-15s-acpi-sleep-listener
+# Redmibook Pro 15S ACPI sleep listener
 Fixes suspend-on-lid-close with the Redmibook Pro 15S
+Tested on BIOS version `RMACZ5B0P0505` (should work on `909` too, can't figure out how to upgrade it)
 
 ***THIS IS NOT MY CODE!!!***
 
