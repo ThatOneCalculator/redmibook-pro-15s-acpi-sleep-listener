@@ -12,3 +12,11 @@ Dependencies:
 - `rust`
 - `evemu`
 - `acpid`
+
+Installation:
+
+1. `sudo usermod -aG input $USER`
+2. `git clone https://github.com/ThatOneCalculator/redmibook-pro-15s-acpi-sleep-listener/ && cd redmibook-pro-15s-acpi-sleep-listener`
+3. `rustc lid_event.rs && sudo install -Dm755 ./lid_event /usr/local/bin/`
+4. `sudo cp ./lid-event.service /etc/systemd/system/`
+5. `systemctl daemon-reload && systemctl enable --now lid-event.service`
