@@ -7,3 +7,8 @@ I was trying to find a solution for this for years, and just today found a rando
 
 https://zhuanlan-zhihu-com.translate.goog/p/384332568?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp
 
+Dependencies:
+
+- `rust`
+- `evemu`
+- `acpid`
