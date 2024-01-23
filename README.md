@@ -3,7 +3,7 @@ Fixes suspend-on-lid-close with the Redmibook Pro 15S
 
 Tested on BIOS version `RMACZ5B0P0505` (should work on `909` too, can't figure out how to upgrade it)
 
-***THIS IS NOT MY CODE!!!***
+***THIS IS NOT MY CODE - Written by [Liu Jin](https://www.zhihu.com/people/liu-jin-70)!!!***
 
 I was trying to find a solution for this for years, and just today found a random Chinese forum site that had a solution. This doesn't seem to be documented anywhere else on the internet.
 
